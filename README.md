@@ -83,7 +83,6 @@ Finally, if something happens which was not supposed to happen then CTRL + C is 
 As of now, I'm the only one who worked on the project so feel free to thank me.
 > Discord : @gamin9eek#6729  
 > Reddit : [https://www.reddit.com/user/gamin9eek](https://www.reddit.com/user/gamin9eek)  
-> buymeacoffee : [https://www.buymeacoffee.com/rohanbenny17](https://www.buymeacoffee.com/rohanbenny17)
 
 I'm ready to collab if you wish to enhance the project.
 ```
