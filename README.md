@@ -43,7 +43,6 @@ In this example 80 is my target attendance percentage.
 ## Terminal
 
 Made it this far? Congratulations! 
-~~If you didn't I suggest you to get yourself checked~~.
 
 Like I said the UI isn't that great and once you run the program you will be greeted by a window like this:
 >        ***BUNK***
